@@ -16,8 +16,8 @@ I actively engage in competitive programming and web application development, al
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,css,html,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,css,html)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,notion,raspberrypi)](https://skillicons.dev)
