@@ -15,7 +15,7 @@ These days, I mainly work with Ruby, Go, and TypeScript. I also have experience 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,go,ruby,cs,js,ts,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,go,ruby,js,ts,css,html)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs)](https://skillicons.dev)
 
