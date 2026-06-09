@@ -8,9 +8,10 @@
 </div>
 
 Hi there!
-I’m Yuki Nishimura, a graduate student at Doshisha University. 
-My primary programming languages are C++, Python, and TypeScript. 
-I actively engage in competitive programming and web application development, always eager to take on new challenges and refine my skills.
+
+I’m Kanade, a software engineer interested in web development, developer tools, and competitive programming.
+
+These days, I mainly work with Ruby, Go, and TypeScript. I also have experience with C++, Python, and competitive programming, which shaped the way I approach problem-solving and software design.
 
 ## Tech Stack
 
